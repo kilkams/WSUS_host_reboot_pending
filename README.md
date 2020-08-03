@@ -1,0 +1,1 @@
+# WSUS_host_reboot_pending
